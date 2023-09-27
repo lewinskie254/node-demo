@@ -1,0 +1,5 @@
+/node_modules 
+
+git remote add origin https://github.com/lewinskie254/node-demo.git
+git branch -M main
+git push -u origin main

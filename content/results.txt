@@ -1,0 +1,5 @@
+here is the result: Hello this si the first text file, hello this is the second text file 
+
+here is the ammended result: Hello this si the first text file, hello this is the second text file 
+
+here is the ammended result: Hello this si the first text file, hello this is the second text file
